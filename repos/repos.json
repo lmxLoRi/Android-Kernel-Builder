@@ -2,7 +2,7 @@
   {
   "kernelSource": {
     "name": "motorola edge s30",
-    "repo": "https://github.com/MotorolaMobilityLLC/kernel-msm/releases/tag/MMI-S1RXC32.50-37-2",
+    "repo": "https://github.com/Broly1/kernel_motorola_sm7325",
     "branch": "myui",
     "device": "xpeng",
     "defconfig": "xpeng_defconfig"
@@ -37,10 +37,10 @@
     }
   },
   "AnyKernel3": {
-    "use": false,
-    "release": false,
-    "repo": "",
-    "branch": ""
+    "use": true,
+      "release": true,
+      "repo": "https://github.com/easterNday/AnyKernel3/",
+      "branch": "xpeng"
   }
 }
 ]
