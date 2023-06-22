@@ -1,11 +1,11 @@
 [
   {
   "kernelSource": {
-    "name": "huawei p8 lite 2017",
+    "name": "prague",
     "repo": "https://github.com/Dil3mm4/labyrinth_kernel_prague/",
     "branch": "dot",
-    "device": "pargue",
-    "defconfig": "pargue_defconfig"
+    "device": "prague",
+    "defconfig": "prague_defconfig"
   },
   "withKernelSU": true,
   "toolchains": [
@@ -40,7 +40,7 @@
     "use": false,
       "release": true,
       "repo": "https://github.com/easterNday/AnyKernel3/",
-      "branch": "pargue"
+      "branch": "prague"
   }
 }
 ]
