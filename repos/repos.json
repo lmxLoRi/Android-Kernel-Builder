@@ -37,8 +37,8 @@
     }
   },
   "AnyKernel3": {
-    "use": flase,
-      "release": flase,
+    "use": false,
+      "release": false,
       "repo": "",
       "branch": ""
   }
