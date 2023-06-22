@@ -1,11 +1,11 @@
 [
   {
   "kernelSource": {
-    "name": "motorola edge s30",
-    "repo": "https://github.com/Broly1/kernel_motorola_sm7325",
-    "branch": "myui",
-    "device": "xpeng",
-    "defconfig": "xpeng_defconfig"
+    "name": "huawei p8 lite 2017",
+    "repo": "https://github.com/Dil3mm4/labyrinth_kernel_prague/",
+    "branch": "dot",
+    "device": "pargue",
+    "defconfig": "pargue_defconfig"
   },
   "withKernelSU": true,
   "toolchains": [
