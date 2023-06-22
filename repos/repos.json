@@ -3,7 +3,7 @@
   "kernelSource": {
     "name": "prague",
     "repo": "https://github.com/Dil3mm4/labyrinth_kernel_prague/",
-    "branch": "dot",
+    "branch": "labyrinth_r2",
     "device": "prague",
     "defconfig": "prague_defconfig"
   },
