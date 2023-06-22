@@ -38,9 +38,9 @@
   },
   "AnyKernel3": {
     "use": false,
-      "release": false,
-      "repo": "",
-      "branch": ""
+      "release": true,
+      "repo": "https://github.com/easterNday/AnyKernel3/",
+      "branch": "pargue"
   }
 }
 ]
