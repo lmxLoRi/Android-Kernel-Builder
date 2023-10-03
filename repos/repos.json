@@ -1,11 +1,11 @@
 [
   {
   "kernelSource": {
-    "name": "prague",
-    "repo": "https://github.com/Dil3mm4/labyrinth_kernel_prague/",
-    "branch": "labyrinth_r2",
-    "device": "prague",
-    "defconfig": "prague_defconfig"
+    "name": "oneplus7",
+    "repo": "https://github.com/shantanu-sarkar/OOS12.1_ACK-CLO-Hybrid_kernel_sm8150",
+    "branch": "thirteen",
+    "device": "guacamoleb",
+    "defconfig": "cuttlefish"
   },
   "withKernelSU": true,
   "toolchains": [
