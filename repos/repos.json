@@ -5,7 +5,7 @@
     "repo": "https://github.com/shantanu-sarkar/OOS12.1_ACK-CLO-Hybrid_kernel_sm8150",
     "branch": "thirteen",
     "device": "guacamoleb",
-    "defconfig": "cuttlefish"
+    "defconfig": "sm8150-perf"
   },
   "withKernelSU": true,
   "toolchains": [
