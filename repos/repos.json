@@ -7,7 +7,7 @@
     "device": "guacamoleb",
     "defconfig": "cuttlefish_defconfig"
   },
-  "withKernelSU": true,
+  "withKernelSU": false,
   "toolchains": [
     {
       "repo": "https://github.com/kdrag0n/proton-clang",
@@ -38,7 +38,7 @@
   },
   "AnyKernel3": {
     "use": true,
-      "release": true,
+      "release": false,
       "repo": "https://github.com/lmxLoRi/AnyKernel3",
       "branch": "guacamoleb"
   }
