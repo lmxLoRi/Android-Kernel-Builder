@@ -2,12 +2,12 @@
   {
   "kernelSource": {
     "name": "oneplus7",
-    "repo": "https://github.com/shantanu-sarkar/OOS12.1_ACK-CLO-Hybrid_kernel_sm8150",
-    "branch": "thirteen",
+    "repo": "https://github.com/LineageOS/android_kernel_oneplus_sm8150",
+    "branch": "lineage-20",
     "device": "guacamoleb",
     "defconfig": "cuttlefish_defconfig"
   },
-  "withKernelSU": false,
+  "withKernelSU": true,
   "toolchains": [
     {
       "repo": "https://github.com/kdrag0n/proton-clang",
