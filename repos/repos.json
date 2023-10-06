@@ -1,11 +1,11 @@
 [
   {
   "kernelSource": {
-    "name": "oneplus7",
-    "repo": "https://github.com/LineageOS/android_kernel_oneplus_sm8150",
-    "branch": "lineage-20",
-    "device": "guacamoleb",
-    "defconfig": "cuttlefish_defconfig"
+    "name": "nexus5x",
+    "repo": "https://github.com/rlawoehd187/android_kernel_lge_bullhead",
+    "branch": "lineage-19.1",
+    "device": "bullhead",
+    "defconfig": "bullhead_defconfig"
   },
   "withKernelSU": true,
   "toolchains": [
@@ -40,7 +40,7 @@
     "use": true,
       "release": false,
       "repo": "https://github.com/lmxLoRi/AnyKernel3",
-      "branch": "guacamoleb"
+      "branch": "bullhead"
   }
 }
 ]
